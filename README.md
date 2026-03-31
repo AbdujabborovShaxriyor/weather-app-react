@@ -16,7 +16,7 @@ Features include to be able to see the current weather(default on Tashkent), plu
 - JavaScript (ES6+)
 
 ## Live Demo
-[Try the app online](https://todo-app-react-gamma-weld.vercel.app/)
+[Try the app online](https://weather-app-react-vercel-8op36oloy.vercel.app/)
 
 ## Installation
 
