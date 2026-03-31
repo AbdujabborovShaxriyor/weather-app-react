@@ -21,7 +21,7 @@ Features include to be able to see the current weather(default on Tashkent), plu
 ## Installation
 
 1. Clone the repo:
-  git clone https://github.com/AbdujabborovShaxriyor/todo-app-react.git 
+  git clone https://github.com/AbdujabborovShaxriyor/weather-app-react.git 
 
 2. Install dependencies:
   npm install
